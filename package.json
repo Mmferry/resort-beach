@@ -2,7 +2,7 @@
   "name": "resort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mmferry.github.io/resort-beach",
+  "homepage": "https://Mmferry.github.io/resort",
   "dependencies": {
     "antd": "^3.23.5",
     "node-sass": "^4.12.0",
