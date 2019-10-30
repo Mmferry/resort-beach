@@ -2,15 +2,18 @@
   "name": "resort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mmferry.github.io/resort",
+  "homepage": "https://Mmferry.github.io/resort-beach",
   "dependencies": {
+    "antd": "^3.23.5",
+    "node-sass": "^4.12.0",
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-icons": "^3.7.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
-    "styled-components": "^4.4.0"
+    "styled-components": "^4.4.0",
+    "tslint-react": "^4.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
